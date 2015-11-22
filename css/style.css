@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,300);
+
+body {
+  background: #2d2d2d;
+}
+
+#logo {
+  text-align: center;
+}
+#logo span {
+  font-weight: 300;
+  color: #d64937;
+}
+#logo h1{
+  display: block;
+  font-family: Roboto;
+  font-weight: 100;
+  font-size: 5em;
+  color: #f9f9f9;
+}
+
